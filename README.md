@@ -10,7 +10,7 @@ This is a basic implementation of the classic Hangman game using Python. It prov
 3. Open the terminal or command prompt and navigate to the project directory.
 4. Run the following command to start the game:
    ```
-   python hangman.py
+   python Hangman Game.py
    ```
 5. The game will prompt you to start guessing.
 6. Once the game starts, enter your guesses one letter at a time.
